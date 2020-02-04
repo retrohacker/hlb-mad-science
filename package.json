@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@npmcli/arborist": "^0.0.0-pre.3",
+    "treeverse": "^1.0.3"
+  },
+  "name": "hlb-mad-science",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "William Blankenship",
+  "license": "MIT",
+  "description": ""
+}
