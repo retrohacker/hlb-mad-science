@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 //const { buildDepTreeFromFiles } = require('snyk-nodejs-lockfile-parser');
 const Arborist = require('@npmcli/arborist');
 const { breadth } = require('treeverse');

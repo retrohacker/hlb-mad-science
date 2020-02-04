@@ -4,7 +4,7 @@
     "treeverse": "^1.0.3"
   },
   "bin": {
-    "hlb-mad-science": "node index.js"
+    "hlb-mad-science": "./index.js"
   },
   "name": "hlb-mad-science",
   "version": "1.0.1",
