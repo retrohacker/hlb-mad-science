@@ -3,6 +3,9 @@
     "@npmcli/arborist": "^0.0.0-pre.3",
     "treeverse": "^1.0.3"
   },
+  "bin": {
+    "hlb-mad-science": "node index.js"
+  },
   "name": "hlb-mad-science",
   "version": "1.0.0",
   "main": "index.js",
