@@ -7,7 +7,7 @@
     "hlb-mad-science": "./index.js"
   },
   "name": "hlb-mad-science",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "William Blankenship",
   "license": "MIT",
